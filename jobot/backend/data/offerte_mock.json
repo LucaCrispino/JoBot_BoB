@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Operatore di Magazzino",
+    "company": "LogiNapoli S.r.l.",
+    "location": "Napoli, NA",
+    "description": "Cerchiamo operatori di magazzino per gestione merci, carico/scarico e inventario. È richiesta la patente per muletto. Turni diurni full-time, contratto a tempo determinato con possibilità di proroga.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/magazzino-loginapoli",
+    "published_at": "2025-01-10",
+    "keywords": ["magazzino", "logistica", "muletto", "magazziniere", "operatore"]
+  },
+  {
+    "title": "Addetto alle Pulizie",
+    "company": "CleanService Napoli",
+    "location": "Napoli, NA",
+    "description": "Selezioniamo addetti alle pulizie per uffici e strutture commerciali in zona Napoli est. Orario part-time, mattina. Non è richiesta esperienza pregressa, si fornisce formazione.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/pulizie-cleanservice",
+    "published_at": "2025-01-12",
+    "keywords": ["pulizie", "addetto pulizie", "pulizie uffici", "part-time"]
+  },
+  {
+    "title": "Corriere / Autista Consegne",
+    "company": "VeloceConsegne s.r.l.",
+    "location": "Napoli e provincia",
+    "description": "Ricerchiamo corrieri con patente B per consegne in area metropolitana di Napoli. Furgone aziendale fornito. Orario: 8:00–17:00 dal lunedì al sabato. Contratto part-time o full-time.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/corriere-veloceconsegne",
+    "published_at": "2025-01-08",
+    "keywords": ["corriere", "autista", "consegne", "patente B", "furgone", "trasporto"]
+  },
+  {
+    "title": "Cameriere / Addetto Sala",
+    "company": "Ristorante Da Gennaro",
+    "location": "Napoli, Quartieri Spagnoli",
+    "description": "Ristorante storico nel centro di Napoli cerca cameriere con esperienza minima in sala. Buona conoscenza della cucina napoletana tradizionale è un plus. Turni serali e weekend.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/cameriere-da-gennaro",
+    "published_at": "2025-01-14",
+    "keywords": ["cameriere", "sala", "ristorante", "ristorazione", "ospitalità", "servizio"]
+  },
+  {
+    "title": "Assistente di Vendita — Grande Distribuzione",
+    "company": "SuperMarket Campania S.p.A.",
+    "location": "Casoria, NA",
+    "description": "Addetto vendita per reparto ortofrutta. Gestione banco, assistenza clienti, riordino scaffali. Orario a turni (mattina/pomeriggio). Richiesta disponibilità al lavoro nel weekend.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/vendita-supermercato-casoria",
+    "published_at": "2025-01-09",
+    "keywords": ["vendita", "supermercato", "addetto vendita", "grande distribuzione", "gdo", "commesso"]
+  },
+  {
+    "title": "Operaio Edile",
+    "company": "Costruzioni Vesuvio s.r.l.",
+    "location": "Ercolano, NA",
+    "description": "Azienda edile cerca operai per cantieri in zona vesuviana. Mansioni: muratura, intonaco, assistenza a muratori specializzati. Richiesta esperienza minima 1 anno in edilizia.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/operaio-edile-vesuvio",
+    "published_at": "2025-01-07",
+    "keywords": ["edilizia", "operaio edile", "cantiere", "muratore", "costruzioni"]
+  },
+  {
+    "title": "Addetto Call Center — Assistenza Clienti",
+    "company": "TeleSupport Italia",
+    "location": "Napoli, NA (possibilità smart working parziale)",
+    "description": "Ricerchiamo operatori call center per servizio clienti inbound. Buone doti comunicative, buona conoscenza dell'italiano. Formazione iniziale fornita. Contratto a tempo determinato 6 mesi.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/call-center-telesupport",
+    "published_at": "2025-01-11",
+    "keywords": ["call center", "assistenza clienti", "operatore", "telefonia", "customer care"]
+  },
+  {
+    "title": "Barista",
+    "company": "Caffè Partenope",
+    "location": "Napoli, Mergellina",
+    "description": "Bar storico sul lungomare cerca barista con esperienza. Preparazione caffè espresso, cappuccini, brioche napoletane. Orario: 6:30–14:30. Sabato e domenica inclusi.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/barista-caffe-partenope",
+    "published_at": "2025-01-13",
+    "keywords": ["barista", "bar", "caffè", "ospitalità", "ristorazione", "bevande"]
+  },
+  {
+    "title": "Addetto Confezionamento — Industria Alimentare",
+    "company": "Pastificio Campano S.p.A.",
+    "location": "Nola, NA",
+    "description": "Importante pastificio campano cerca addetti alla linea di confezionamento. Lavoro in catena di montaggio, turni a rotazione. Non è richiesta esperienza specifica, si offre formazione.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/confezionamento-pastificio-nola",
+    "published_at": "2025-01-06",
+    "keywords": ["confezionamento", "operaio", "alimentare", "pastificio", "produzione", "fabbrica"]
+  },
+  {
+    "title": "Giardiniere / Addetto Verde Pubblico",
+    "company": "GreenNapoli Coop",
+    "location": "Napoli e provincia",
+    "description": "Cooperativa cerca giardinieri per manutenzione parchi e aree verdi comunali. Utilizzo di attrezzatura da giardinaggio, tosaerba, decespugliatori. Contratto stagionale con possibilità di rinnovo.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/giardiniere-greennapoli",
+    "published_at": "2025-01-05",
+    "keywords": ["giardiniere", "verde pubblico", "parchi", "outdoor", "agricoltura", "piante"]
+  },
+  {
+    "title": "Assistente Familiare / Badante",
+    "company": "CuraFamiglie Napoli",
+    "location": "Napoli, NA",
+    "description": "Agenzia accreditata cerca assistenti familiari per anziani e persone non autosufficienti. Richiesta pazienza, empatia e disponibilità a orari flessibili. Si valuta anche prima esperienza.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/assistente-familiare-napoli",
+    "published_at": "2025-01-15",
+    "keywords": ["badante", "assistente familiare", "cura anziani", "assistenza", "social care"]
+  },
+  {
+    "title": "Meccanico Autoriparatore",
+    "company": "Autofficina Sorrentino",
+    "location": "Pozzuoli, NA",
+    "description": "Autofficina cerca meccanico con esperienza su veicoli a benzina e diesel. Tagliandi, diagnostica, freni e sospensioni. Si valutano anche meccanici junior da formare.",
+    "source": "mock",
+    "url": "https://esempio.it/offerta/meccanico-sorrentino-pozzuoli",
+    "published_at": "2025-01-10",
+    "keywords": ["meccanico", "autofficina", "riparazione auto", "diagnostica", "automotive"]
+  }
+]

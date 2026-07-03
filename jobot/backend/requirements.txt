@@ -1,0 +1,34 @@
+# ============================================================
+# JoBot Backend — Dipendenze Python
+# ============================================================
+# Installa con: pip install -r requirements.txt
+# Richiede Python 3.11+
+
+# --- Framework Web ---
+fastapi==0.115.5
+uvicorn[standard]==0.32.1
+
+# --- Validazione e Configurazione ---
+pydantic==2.10.3
+pydantic-settings==2.6.1
+
+# --- HTTP Client Asincrono ---
+# Usato per le future chiamate alle API di lavoro (InfoJobs, Adzuna, CareerJet)
+httpx==0.28.1
+
+# --- Variabili d'Ambiente ---
+python-dotenv==1.0.1
+
+# --- Utility ---
+python-multipart==0.0.19
+
+# TODO (Milestone 2): aggiungere le seguenti dipendenze quando si integrano le API esterne:
+# langchain==x.x.x          — orchestrazione agente LangChain
+# langchain-openai==x.x.x   — provider LLM OpenAI
+# tenacity==x.x.x           — retry con backoff esponenziale per chiamate API
+
+# TODO (Milestone 1): aggiungere le seguenti dipendenze per la persistenza:
+# sqlalchemy[asyncio]==2.x.x — ORM asincrono
+# asyncpg==x.x.x            — driver PostgreSQL asincrono
+# alembic==x.x.x            — migrazioni database
+# redis[asyncio]==x.x.x     — client Redis asincrono per sessioni e cache

@@ -9,7 +9,7 @@ Documentazione interattiva disponibile su:
 """
 
 from fastapi import FastAPI
-from fastapi.middleware.cors import CORSMiddleware
+from fasGtapi.middleware.cors import CORSMiddleware
 
 from core.config import get_settings
 from routers import health, chat
